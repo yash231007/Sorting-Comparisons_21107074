@@ -1,3 +1,13 @@
+//a. No of comparisons in selection sort is less than no of comparisons in bubble sort. For an 
+//example take array= [10,5,4,12,20,6]. Now number of comparisons needed to sort this 
+//array through selection sort is 5 and number of comparisons needed to sort this array 
+//through bubble sort is 12. 
+//b. For an example take array= [10,5,4,12,20,6]. Number of swaps needed to sort this array 
+//through selection sort is 3 and number of swaps needed to sort this array through 
+//bubble sort is 6.
+//c. Code- Bubble Sort
+
+
 // C++ program for implementation
 // of Bubble sort
 #include <bits/stdc++.h>
